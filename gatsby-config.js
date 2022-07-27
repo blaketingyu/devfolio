@@ -21,9 +21,9 @@ module.exports = {
       {
         name: 'Visa Inc',
         title: 'Software Engineer Intern, May 2022 - Aug 2022',
-        description: ['Developed job flows that are scheduled periodically to remediate and report job failures in Visa Resolve Online (VROL)’s QA environments using CloverDX, Bash Scripting and SQL', 
-        'Decreased server downtime, manual troubleshooting and facilitated developers & testers working in these servers', 'Supported VROL’s testing and engineering process by executing test cases (Regression & Smoke) according to functional specification and automated test scripts using Selenium, SoapUI & Postman'],
-        technologies: 'CloverDX, Selenium, SoapUI, Postman, Bash Scripting, SQL',
+        description: ['Developed 4 job flows that are scheduled periodically to remediate and report job failures in Visa Resolve Online (VROL)’s QA environments using CloverDX, Bash Scripting and SQL', 
+        'Decreased server downtime by 30%, manual troubleshooting, facilitating the VROL Team amounting to 100 over developers & testers working in these environments', 'Supported VROL’s testing and engineering process by executing test cases (Regression & Smoke) according to functional specification and automated test scripts using Selenium, SoapUI & Postman'],
+        technologies: 'CloverDX, Selenium, SoapUI, Postman, Bash Scripting, SQL, Java, Spring Boot',
       },
       {
         name: 'National University Of Singapore (NUS)',
@@ -33,20 +33,20 @@ module.exports = {
       {
         name: 'United Overseas Banking (UOB)',
         title: 'Business Technology Intern, May 2021 - Aug 2021',
-        description: ['Developed multiple bash scripts, cron jobs to automate various processes for numerous application', 'Managed communication between the different applications using IBM MQ and formulated splunk queries to automate reporting of failure in the logs'],
+        description: ['Developed and scheduled 10 jobs to automate processes for 3 different applications in 3 different servers, cutting down time spent on repetitive manual work by 40%', 'Established communication between the different applications using IBM MQ, automated reporting of failure in the logs by formulating Splunk queries and containerised applications using Docker'],
         technologies: 'Bash Scripting, SQL, IBM MQ, Splunk, Docker',
       },
       {
         name: 'Centre for Strategic Infocomm Technologies (CSIT)',
         title: 'Research & Development Engineer Intern, Nov 2017 - Feb 2018',
-        description: ['Developed a malware detecting tool for Android smartphones by identifying commonly targeted files'],
-        technologies: 'C, Bash Scripting', 
+        description: ['Developed a malware detecting tool for Android smartphones, alerting users whenever there are changes made to files containing sensitive information, with a detection accuracy rate of 70% '],
+        technologies: 'C, Bash Scripting, x64dbg ', 
       },
       {
         name: 'Certis',
         title: 'Penetration Tester Intern, Sep 2017 - Nov 2017',
         description: ['Developed a Red Teaming toolkit what simulates cyber attacks, providing assessment on how trained the enterprise users are on cyber security awareness and how hardened, protected the systems are'],
-        technologies: 'Koadic C3',
+        technologies: 'Koadic C3 (Metasploit), Python',
       },
       {
         name: 'TP-IBM Security Operation Centre',
@@ -77,7 +77,7 @@ module.exports = {
       {
         name: 'Frameworks & Libraries',
         description:
-        'ReactJS, GatsbyJS, JUnit',
+        'ReactJS, GatsbyJS, JUnit, Spring Boot',
       },
       {
         name: 'Databases',
@@ -94,6 +94,12 @@ module.exports = {
     
     ],
     awards: [
+      {
+        name:'2022 Visa Intern',
+        title:'2022 Visa Intern issued by Visa Early Career Programs',
+        description: 'Earners of this badge completed an internship program where they worked on challenging and rewarding projects that helped connect more people to the global economy. Knowledge and skills developed over the course of the program include payments, tech, business, leadership, and more. #LifeatVisa',
+        link: 'https://www.credly.com/badges/46853f2b-d47d-4019-842d-1a0dbcb295ee/linked_in?t=rfnu74',
+      },
       {
         name: 'Meta Above & Beyond Computer Science (ABCS) Program',
         title: 'Above & Beyond Computer Science (ABCS) Program organised by Meta Singapore',
