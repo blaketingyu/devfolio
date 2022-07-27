@@ -63,7 +63,7 @@ module.exports = {
       },
       {
         name: 'Portfolio Website',
-        description: 'The site we are on right now!',
+        description: 'The current site we are on, made using a template using Gatsby.js and TailwindCSS',
         link: 'https://github.com/blaketingyu/devfolio',
       },
     ],
