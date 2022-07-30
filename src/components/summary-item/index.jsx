@@ -13,7 +13,7 @@ const SummaryItem = ({ name, title, description, link = false, internal = false 
   if (internal) {
     linkContent = <Link to={link}>{name}</Link>;
   } else {
-    linkContent = <a href={link}>{name}</a>;
+    linkContent = <a target="_blank" rel="noopener noreferrer" href={link}>{name}</a>;
   }
 
   return (
