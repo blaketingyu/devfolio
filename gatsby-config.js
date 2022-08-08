@@ -66,13 +66,19 @@ module.exports = {
         description: 'The current site we are on, made using a template using Gatsby.js and TailwindCSS',
         link: 'https://github.com/blaketingyu/devfolio',
       },
+      {
+        name: 'Chudoku',
+        description: 'ECommerce web interface that allows users to purchase Japanese related items such as Figurines, Cards & Apparels built using vanilla PHP, HTML, CSS, JavaScript and mySQL. '
+                    + 'Site is built with little regards for design and is focused more on security aspects.',
+        link: 'https://github.com/blaketingyu/chudoku-webapp-php',
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages',
         description:
-          'Python, Java, C++, C, HTML, JavaScript, CSS,  SQL, Bash Scripting',
+          'Python, Java, C++, C, HTML, JavaScript, CSS, PHP,  SQL, Bash Scripting',
       },
       {
         name: 'Frameworks & Libraries',
