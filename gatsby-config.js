@@ -91,13 +91,21 @@ module.exports = {
       },
       {
         name: 'DevOps Tools',
-        description: 'Maven, Docker, Splunk, Postman, SoapUI, Selenium',
+        description: 'Maven, Docker, Splunk',
       },
       {
         name: 'ETL Tools',
         description: 'CloverDX',
       },
-    
+      {
+        name: 'Testing tools',
+        description: 'Selenium, SoapUI',
+      },
+      {
+        name:'API tools',
+        description:'Postman'
+
+      },
     ],
     awards: [
       {
