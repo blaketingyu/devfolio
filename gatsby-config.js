@@ -78,7 +78,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, Java, C++, C, HTML, JavaScript, CSS, PHP,  SQL, Bash Scripting',
+          'Python, Java, C++, C, HTML, JavaScript, TypeScript, CSS, PHP,  SQL, Bash Scripting',
       },
       {
         name: 'Frameworks & Libraries',
@@ -109,17 +109,6 @@ module.exports = {
     ],
     awards: [
       {
-        name:'2022 Visa Intern',
-        title:'2022 Visa Intern issued by Visa Early Career Programs',
-        description: 'Earners of this badge completed an internship program where they worked on challenging and rewarding projects that helped connect more people to the global economy. Knowledge and skills developed over the course of the program include payments, tech, business, leadership, and more. #LifeatVisa',
-        link: 'https://www.credly.com/badges/46853f2b-d47d-4019-842d-1a0dbcb295ee/linked_in?t=rfnu74',
-      },
-      {
-        name: 'Meta Above & Beyond Computer Science (ABCS) Program',
-        title: 'Above & Beyond Computer Science (ABCS) Program organised by Meta Singapore',
-        description: "Participated in Meta's Above & Beyond Computer Science (ABCS) Program",
-      },
-      {
         name: 'STANDCON 2022',
         title: 'STANDCON 2022 organised by N0H4TS',
         description: "Participated in STANDCON 2022's Capture-the-Flag competition",
@@ -130,12 +119,6 @@ module.exports = {
         title: 'BrainHack 2021 organised by Defence Science and Technology Agency',
         description: "Participated in BrainHack 2021's Hackathon",
         link: 'https://certificates.nextid.com/certificate?id=021c785f-2ec8-43ea-be44-a15126ea5f1e',
-      },
-      {
-        name: 'Japanese Elementary Level Proficiency',
-        title: 'Completion of Japanese 2 Module In National University of Singapore (NUS)',
-        description: "Awarded  certificate of proficiency in the Japanese language at the Elementary level",
-        link:'https://credentials.nus.edu.sg/f7628575-5fd4-48f8-a6ba-8b0ae169b366',
       },
       {
         name: 'Diploma With Merit',
@@ -149,12 +132,6 @@ module.exports = {
         description: "Participated in the 8th Singapore Cyber Conquest Capture-the-Flag challenge",
       },
       {
-        name: 'Linux Redhat Certified System Administrator (RHCSA)',
-        title: 'RHCSA - EX200',
-        description: "An IT professional who has earned the Red Hat Certified System Administrator (RHCSA®) is able to perform the core system administration skills required in Red Hat Enterprise Linux environments. The credential is earned after successfully passing the Red Hat Certified System Administrator (RHCSA) Exam (EX200).",
-        link: 'https://drive.google.com/file/d/19Xw7BsTwP24-_zWKlTWW29A3fUI1LNF5/view?usp=sharing',
-      },
-      {
         name: 'Centre for Strategic Infocomm Technologies (CSIT) Scholarship',
         title: 'Centre for Strategic Infocomm Technologies (CSIT) Scholarship for AY2015/2016 & AY2017/2018',
         description: "Awarded the CSIT scholarship for 2 years",
@@ -163,6 +140,44 @@ module.exports = {
         name: "Director's List AY2015/2016 & AY2016/2017",
         title: "Director's List AY2015/2016 & AY2016/2017 - Temasek Polytechnic",
         description: "Placed in the Director's List for 2 consecutive years",
+      },
+    ],
+    certs: [
+      {
+        name:'Dockers for the Absolute Beginners - Hands on - DevOps',
+        title:'Udemy course with Mumshad Mannambeth',
+        description: 'Took a Udemy course designed for beginners in DevOps to learn more about Docker.',
+        link: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-93ef3dbf-40a0-4ba3-b28f-00604b6b801e.pdf',
+      },
+      {
+        name:'JavaScript - The Complete Guide 2022 (Beginner + Advanced)',
+        title:'Udemy Course with instructor, Maximilian Schwarzmüller',
+        description: 'Comprehensive course on JavaScript which goes through the syntax, core concepts, DOM manipulations, events, OOP, Asyn, HTTP Requests,'
+        + '\nLibraries and frameworks, Node.js, Security and Automated Testing.',
+        link: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-229dca21-cca1-46aa-bb7c-2f02300e4e41.pdf',
+      },
+      {
+        name:'2022 Visa Intern',
+        title:'2022 Visa Intern issued by Visa Early Career Programs',
+        description: 'Earners of this badge completed an internship program where they worked on challenging and rewarding projects that helped connect more people to the global economy. Knowledge and skills developed over the course of the program include payments, tech, business, leadership, and more. #LifeatVisa',
+        link: 'https://www.credly.com/badges/46853f2b-d47d-4019-842d-1a0dbcb295ee/linked_in?t=rfnu74',
+      },
+      {
+        name: 'Meta Above & Beyond Computer Science (ABCS) Program',
+        title: 'Above & Beyond Computer Science (ABCS) Program organised by Meta Singapore',
+        description: "Participated in Meta's Above & Beyond Computer Science (ABCS) Program",
+      },
+      {
+        name: 'Japanese Elementary Level Proficiency',
+        title: 'Completion of Japanese 2 Module In National University of Singapore (NUS)',
+        description: "Awarded  certificate of proficiency in the Japanese language at the Elementary level",
+        link:'https://credentials.nus.edu.sg/f7628575-5fd4-48f8-a6ba-8b0ae169b366',
+      },
+      {
+        name: 'Linux Redhat Certified System Administrator (RHCSA)',
+        title: 'RHCSA - EX200',
+        description: "An IT professional who has earned the Red Hat Certified System Administrator (RHCSA®) is able to perform the core system administration skills required in Red Hat Enterprise Linux environments. The credential is earned after successfully passing the Red Hat Certified System Administrator (RHCSA) Exam (EX200).",
+        link: 'https://drive.google.com/file/d/19Xw7BsTwP24-_zWKlTWW29A3fUI1LNF5/view?usp=sharing',
       },
     ],
   },
