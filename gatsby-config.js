@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Blake Tan',
     // Main Site Title
-    title: `Blake Tan | Computer Science Student & Aspiring Software Engineer`,
+    title: `Blake | Portfolio`,
     // Description that goes under your name in main bio
     description: `Penultimate Computer Science Student at the National University of Singapore (NUS).`,
     github: `https://github.com/blaketingyu`,
