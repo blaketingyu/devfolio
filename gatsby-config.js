@@ -78,12 +78,12 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, Java, C++, C, HTML, JavaScript, TypeScript, CSS, PHP,  SQL, Bash Scripting',
+          'Python, Java, C++, C, HTML, JavaScript/TypeScript, CSS, PHP,  SQL, Bash',
       },
       {
         name: 'Frameworks & Libraries',
         description:
-        'ReactJS, GatsbyJS, JUnit, Spring Boot',
+        'ExpressJS, ReactJS, GatsbyJS, Spring Boot',
       },
       {
         name: 'Databases',
@@ -95,11 +95,11 @@ module.exports = {
       },
       {
         name: 'ETL Tools',
-        description: 'CloverDX',
+        description: 'CloverDX, Hadoop, Spark',
       },
       {
         name: 'Testing tools',
-        description: 'Selenium, SoapUI',
+        description: 'Selenium, SoapUI, JUnit',
       },
       {
         name:'API tools',
