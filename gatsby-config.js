@@ -22,18 +22,18 @@ module.exports = {
         name: 'Visa Inc',
         title: 'Software Engineer Intern, May 2022 - Aug 2022',
         description: ['Developed 4 job flows that are scheduled periodically to remediate and report job failures in Visa Resolve Online (VROL)’s QA environments using CloverDX, Bash Scripting and SQL', 
-        'Decreased server downtime by 30%, manual troubleshooting, facilitating the VROL Team amounting to 100 over developers & testers working in these environments', 'Supported VROL’s testing and engineering process by executing test cases (Regression & Smoke) according to functional specification and automated test scripts using Selenium, SoapUI & Postman'],
+        'Decreased server downtime by 30%, manual troubleshooting, facilitating the VROL Team amounting to 100 over developers & testers working in these environments', 'Supported VROL’s testing and engineering process by executing test cases (Regression & Smoke) according to functional specification and automated test scripts using Selenium, SoapUI & Postman', `Maintained the VROL application's code using Java Spring, refactored 500+LoC and added JavaDocs documentation`],
         technologies: 'CloverDX, Selenium, SoapUI, Postman, Bash Scripting, SQL, Java, Spring Boot',
       },
       {
         name: 'National University Of Singapore (NUS)',
         title: 'Undergraduate Teaching Assistant, May 2022 - Aug 2022',
-        description: ['Managed a group of 53 students doing their Student Internship Program (SIP), assisted the professors by reviewing the students’ monthly reports and attending their final presentations'],
+        description: ['Managed a group of 53 students doing their Student Internship Program (SIP), assisted the professors by reviewing the students’ monthly reports and attending their final presentations', 'Handled communications between the Students and their company supervisors, ensuring that the student interns behave professionally during work to uphold the university’s name while also overseeing the students’ welfare'],
       },
       {
         name: 'United Overseas Banking (UOB)',
         title: 'Business Technology Intern, May 2021 - Aug 2021',
-        description: ['Developed and scheduled 10 jobs to automate processes for 3 different applications in 3 different servers, cutting down time spent on repetitive manual work by 40%', 'Established communication between the different applications using IBM MQ, automated reporting of failure in the logs by formulating Splunk queries and containerised applications using Docker'],
+        description: ['Developed and scheduled 10 jobs to automate processes for 3 different applications in 3 different servers, cutting down time spent on repetitive manual work by 40%', 'Maintained communication between the applications in the Stand-in Authorization Switch (STA) which routes payment between UOB Singapore and Thailand, using IBM MQ', 'Automated reporting of payment failures or frauds in the logs by formulating Splunk queries', 'Assisted the migration of applications, containerising applications that are still deployed using a monolithic structure, using Docker and Kubernetes'],
         technologies: 'Bash Scripting, SQL, IBM MQ, Splunk, Docker',
       },
       {
@@ -83,11 +83,11 @@ module.exports = {
       {
         name: 'Frameworks & Libraries',
         description:
-        'ExpressJS, ReactJS, GatsbyJS, Spring Boot',
+        'ExpressJS, ReactJS, GatsbyJS, Spring',
       },
       {
         name: 'Databases',
-        description: 'PostgreSQL, MySQL',
+        description: 'MongoDB, PostgreSQL, MySQL',
       },
       {
         name: 'DevOps Tools',
@@ -96,15 +96,6 @@ module.exports = {
       {
         name: 'ETL Tools',
         description: 'CloverDX, Hadoop, Spark',
-      },
-      {
-        name: 'Testing tools',
-        description: 'Selenium, SoapUI, JUnit',
-      },
-      {
-        name:'API tools',
-        description:'Postman'
-
       },
     ],
     awards: [
