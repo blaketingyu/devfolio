@@ -56,6 +56,12 @@ module.exports = {
     ],
     projects: [
       {
+        name: 'PeerPrep',
+        description:
+          "A collaborative online platform to practice technical interview on",
+        link: 'https://github.com/CS3219-AY2223S1/cs3219-project-ay2223s1-g42',
+      },
+      {
         name: 'McKitchen',
         description:
           'CLI-centric recipe book application. A brownfield school project that our team morph into a recipe book application. Our team primarily utilized breadth-first iteration planning.',
@@ -83,15 +89,15 @@ module.exports = {
       {
         name: 'Frameworks & Libraries',
         description:
-        'ExpressJS, ReactJS, GatsbyJS, Spring',
+        'NestJS, ExpressJS, NodeJS, NextJS, ReactJS, GatsbyJS, Spring',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostgreSQL, MySQL',
+        description: 'MongoDB, PostgreSQL, MySQL, Redis',
       },
       {
         name: 'DevOps Tools',
-        description: 'Maven, Docker, Splunk',
+        description: 'Kubernetes, Maven, Docker, Splunk',
       },
       {
         name: 'ETL Tools',
