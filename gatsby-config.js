@@ -152,6 +152,7 @@ module.exports = {
       {
         name: 'Databases',
         description: 'MongoDB, PostgreSQL, MySQL, Redis',
+        description: 'MongoDB, PostgreSQL, MySQL, Redis',
       },
       {
         name: 'DevOps Tools',
