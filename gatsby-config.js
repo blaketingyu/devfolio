@@ -104,6 +104,7 @@ module.exports = {
           'The application is designed to provide information about the merchants with whom cardholders may have stored their cards on file, and when the merchants have received updated card details, in the event of card reissuance',
           `Leverages 3DS card authentication to safeguard clients' card details, enhancing security through an extra layer of verification during payment transactions`,
         ],
+        link: '',
       },
       {
         name: 'Static Code Analyzer',
