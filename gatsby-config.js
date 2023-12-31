@@ -98,15 +98,6 @@ module.exports = {
     ],
     projects: [
       {
-        name: 'Card-on-File Data Application',
-        description: [
-          'The Card-on-File Data (COFD) application is a POC application that employs the Card-On-File Data Inquiry API',
-          'The application is designed to provide information about the merchants with whom cardholders may have stored their cards on file, and when the merchants have received updated card details, in the event of card reissuance',
-          `Leverages 3DS card authentication to safeguard clients' card details, enhancing security through an extra layer of verification during payment transactions`,
-        ],
-        link: '',
-      },
-      {
         name: 'Static Code Analyzer',
         description:
           'Static Program Analyzer (SPA) is an interactive tool that automatically answers queries about programs. ',
@@ -152,7 +143,6 @@ module.exports = {
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostgreSQL, MySQL, Redis',
         description: 'MongoDB, PostgreSQL, MySQL, Redis',
       },
       {
